@@ -1,0 +1,7 @@
+nav, .fondo, .btn-secondary{
+    background-color: rgb(65, 65, 65);
+} 
+
+div.carousel-caption {
+    bottom: 15%;
+}
